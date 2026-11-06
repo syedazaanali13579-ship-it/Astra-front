@@ -1,0 +1,10 @@
+node_modules/
+dist/
+coverage/
+.env
+.env.*
+!.env.example
+frontend/.vite/
+frontend/dist/
+backend/dist/
+backend/data/*.tmp
